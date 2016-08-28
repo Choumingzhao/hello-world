@@ -1,2 +1,5 @@
 # hello-world
-This is my first repository.
+
+Hi everyone!
+
+I'm a novice to Github. This changes show the way "commit" does.
